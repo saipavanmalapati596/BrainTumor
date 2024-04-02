@@ -1,8 +1,6 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-import tkinter as tk
-from tkinter import filedialog
 import numpy as np
 from keras.preprocessing import image
 from keras.models import Sequential
